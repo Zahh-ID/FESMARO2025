@@ -15,7 +15,7 @@ Analisis Bigdata Fesmaro 2025 menggunakan dataset kedua
 - **Analisis Segmentasi Pelanggan**:
   1. Pelanggan berdasarkan segmen
   2. Rata-rata penjualan peregmen
-- **nalisis Pelanggan Berdasarkan Lokasi**:
+- **Analisis Pelanggan Berdasarkan Lokasi**:
   1. Total sales per market
   2. Distribusi pesanan berdasarkan wilayah
   3. Top 10 negara dengan pesanan terbanyak
